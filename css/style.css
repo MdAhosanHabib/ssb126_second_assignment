@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	
+}
+th{
+	color: white;
+	background: #3eb9a3;
+}
+td{
+	background: #9ee8e5;
+	border: 1px solid #271f1f;
+}
+table{
+	border-collapse: collapse;
+	width: 80%;
+	margin: auto;
+	box-shadow: 5px 5px 20px #2248ffb8;
+}
+.heading{
+	size: 120px;
+}
